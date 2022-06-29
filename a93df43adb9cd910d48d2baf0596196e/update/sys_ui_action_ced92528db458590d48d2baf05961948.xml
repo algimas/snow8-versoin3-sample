@@ -37,7 +37,7 @@
 	g_form.setValue('description','aaaaa2');
     var dialog = new dialogClass("hierarchical_progress_viewer");//contract_cancel_dialog");
 	g_form.setValue('description','aaaaa3');
-    //dialog.setWidth("800"); ///
+    //dialog.setWidth("800"); /// nnn
     dialog.setTitle("Confirmation");
 	g_form.setValue('description','aaaaa4');
     //dialog.setPreference("sys_id", g_form.getUniqueValue());
@@ -80,7 +80,7 @@ function setRedirect() {
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>ced92528db458590d48d2baf05961948</sys_id>
-        <sys_mod_count>19</sys_mod_count>
+        <sys_mod_count>20</sys_mod_count>
         <sys_name>Cancel Change DEMO</sys_name>
         <sys_overrides/>
         <sys_package display_value="Global" source="global">global</sys_package>
@@ -88,7 +88,7 @@ function setRedirect() {
         <sys_scope display_value="SampleGlobalV2">a93df43adb9cd910d48d2baf0596196e</sys_scope>
         <sys_update_name>sys_ui_action_ced92528db458590d48d2baf05961948</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-28 19:47:35</sys_updated_on>
+        <sys_updated_on>2022-06-29 08:07:29</sys_updated_on>
         <table>change_request</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>
